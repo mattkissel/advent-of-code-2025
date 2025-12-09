@@ -8,6 +8,13 @@ import (
 )
 
 func main() {
+
+	//666999
+	//6 1000
+	//10^3
+
+	//666999
+
 	//The dial starts by pointing at 50.
 	// read in each line and execute a rotation
 	// R spins towards higher numbers
